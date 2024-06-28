@@ -1,0 +1,11 @@
+Apple B-ORG
+is O
+looking O
+at O
+buying O
+U.K. B-LOC
+startup O
+for O
+$1 B-MONEY
+billion I-MONEY
+. O

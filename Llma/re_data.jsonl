@@ -1,0 +1,2 @@
+{"text": "Apple acquired Beats for $3 billion.", "entities": [{"start": 0, "end": 5, "label": "ORG"}, {"start": 15, "end": 20, "label": "ORG"}], "relations": [{"head": 0, "tail": 1, "label": "acquired"}]}
+{"text": "Google hired John Doe.", "entities": [{"start": 0, "end": 6, "label": "ORG"}, {"start": 12, "end": 20, "label": "PERSON"}], "relations": [{"head": 0, "tail": 1, "label": "hired"}]}
